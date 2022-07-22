@@ -1,0 +1,51 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+/* #myMap { width: 1080px; height: 720px; }
+  .legend {
+  padding: 10px 10px;
+  font: 14px Arial, Helvetica, sans-serif;
+  background: #fff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  line-height: 5px;
+} */
+/* .legend h4 {
+  text-align: center;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: black;
+  font-weight: 400;
+}
+
+.legend span {
+  bottom: 3px;
+  padding-right: 10px;
+}
+*/
+.legend i {
+    width: 20px;
+    height: 5px;
+    float: right;
+
+} 
+
+
+.legend {
+  padding: 6px 8px;
+  font: 14px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255, 255, 255, 0.8);
+  /*box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);*/
+  /*border-radius: 5px;*/
+  line-height: 24px;
+  color: #555;
+}
